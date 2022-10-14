@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#,ASP.NET,ASP.NET CORE,SQL Server,Javascript,Angular**
 
-- 📫 How to reach me **kmhridoynju@gmail.com**
+- 📫 How to reach me **kmhridoyju@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
