@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=TanvirHridoy" alt="TanvirHridoy" /></a> </p>
 
-- 💬 Ask me about **C#,ASP.NET,ASP.NET CORE,SQL Server,Javascript,Angular**
+- 💬 Ask me about **C#,ASP.NET,ASP.NET CORE,SQL Server,Javascript**
 
 - 📫 How to reach me **kmhridoyju@gmail.com**
 
